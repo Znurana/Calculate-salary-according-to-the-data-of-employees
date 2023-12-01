@@ -1,0 +1,15 @@
+/Users/nuranazeynalli/Desktop/Project/CalculateSalarApplication/bin/Debug/net7.0/CalculateSalarApplication
+/Users/nuranazeynalli/Desktop/Project/CalculateSalarApplication/bin/Debug/net7.0/CalculateSalarApplication.deps.json
+/Users/nuranazeynalli/Desktop/Project/CalculateSalarApplication/bin/Debug/net7.0/CalculateSalarApplication.runtimeconfig.json
+/Users/nuranazeynalli/Desktop/Project/CalculateSalarApplication/bin/Debug/net7.0/CalculateSalarApplication.dll
+/Users/nuranazeynalli/Desktop/Project/CalculateSalarApplication/bin/Debug/net7.0/CalculateSalarApplication.pdb
+/Users/nuranazeynalli/Desktop/Project/CalculateSalarApplication/obj/Debug/net7.0/CalculateSalarApplication.csproj.AssemblyReference.cache
+/Users/nuranazeynalli/Desktop/Project/CalculateSalarApplication/obj/Debug/net7.0/CalculateSalarApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nuranazeynalli/Desktop/Project/CalculateSalarApplication/obj/Debug/net7.0/CalculateSalarApplication.AssemblyInfoInputs.cache
+/Users/nuranazeynalli/Desktop/Project/CalculateSalarApplication/obj/Debug/net7.0/CalculateSalarApplication.AssemblyInfo.cs
+/Users/nuranazeynalli/Desktop/Project/CalculateSalarApplication/obj/Debug/net7.0/CalculateSalarApplication.csproj.CoreCompileInputs.cache
+/Users/nuranazeynalli/Desktop/Project/CalculateSalarApplication/obj/Debug/net7.0/CalculateSalarApplication.dll
+/Users/nuranazeynalli/Desktop/Project/CalculateSalarApplication/obj/Debug/net7.0/refint/CalculateSalarApplication.dll
+/Users/nuranazeynalli/Desktop/Project/CalculateSalarApplication/obj/Debug/net7.0/CalculateSalarApplication.pdb
+/Users/nuranazeynalli/Desktop/Project/CalculateSalarApplication/obj/Debug/net7.0/CalculateSalarApplication.genruntimeconfig.cache
+/Users/nuranazeynalli/Desktop/Project/CalculateSalarApplication/obj/Debug/net7.0/ref/CalculateSalarApplication.dll
